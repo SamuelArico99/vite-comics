@@ -66,7 +66,7 @@ ul {
     align-items: center;
 
     li {
-        padding: 10px;
+        padding: 20px;
         list-style: none;
         height: 100%;
 
@@ -82,6 +82,7 @@ ul {
             height: 100%;
             display: flex;
             align-items: center;
+            font-weight: bold;
 
             &:hover {
                 color: #0282f9;

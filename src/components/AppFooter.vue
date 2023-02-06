@@ -188,6 +188,7 @@ export default {
             span {
                 margin: 0 10px;
                 color: white;
+                font-weight: bold;
             }
         }
 
@@ -247,9 +248,6 @@ export default {
 
         img {
             height: 80%;
-
-
-
         }
 
     }
@@ -274,6 +272,8 @@ export default {
             color: white;
             background-color: #303030;
             border: 2px solid #13528d;
+            cursor: pointer;
+            font-weight: bold;
         }
 
         div {
@@ -285,6 +285,7 @@ export default {
                 text-decoration: none;
                 color: #13528d;
                 margin-right: 20px;
+                font-weight: bold;
             }
 
             img {
